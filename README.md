@@ -2,7 +2,14 @@
 
 ------------------------
 
-This project is about creating a complex but extraordinary form in an ordinary but unique manner.
+This project is about creating a table booking form for the Little Lemon website; though extraordinary but achieved in an ordinary but unique craft.
+
+The form shall contain four fields:
+
+> - Email Address
+> - Date of Booking
+> - Number of People
+> - A Checkbox
 
 ## Skills Gained
 
