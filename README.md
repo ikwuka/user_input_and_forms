@@ -11,6 +11,8 @@ The form shall contain four fields:
 > - Number of People
 > - A Checkbox
 
+<br><br>
+
 ## Skills Gained
 
 > - HTML
